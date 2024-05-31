@@ -27,7 +27,7 @@ margin-top: 50px;
 .button2 {
     width: 115px;
     height: 25px;
-    background: #0066ff;
+    background: #00d0ff;
     color:white;
     padding: 10px;
     text-align: center;
@@ -54,7 +54,7 @@ margin-top: 50px;
 }
 .thick{font-weight: bold;font-size: 20px;}
 .done {background-color: #04AA6D;}
-.pending {background-color: #ff9800;}
+.pending {background-color: #ffcc00;}
 table, td {
   border: 1px none;
   padding: 15px;
